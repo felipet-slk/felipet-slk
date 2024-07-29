@@ -1,12 +1,8 @@
-## Hi there 👋
+## Olá gostaria👋
 
-<!--
-**felipet-slk/felipet-slk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**felipet**
 
-Here are some ideas to get you started:
-
-
-- 📫 How to reach me: @felipdsz(instagram)
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: vocês não sabem quanto que um cuscuz salva uma vida...
--->
+-    friends: Ana, Dane, Helo, Kat, Lari, Sofia, Pedra, Yas
+-    instagram: @felipdsz
+-    nomes: ele/dele
+-    fun fact: vocês não sabem quanto um cuscuz salva uma vida...
